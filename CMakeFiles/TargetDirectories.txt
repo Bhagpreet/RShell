@@ -1,0 +1,8 @@
+/mnt/c/Users/bb860/Documents/cs100/assignments/a1/assignment-1-brownbois/CMakeFiles/edit_cache.dir
+/mnt/c/Users/bb860/Documents/cs100/assignments/a1/assignment-1-brownbois/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/bb860/Documents/cs100/assignments/a1/assignment-1-brownbois/CMakeFiles/test.dir
+/mnt/c/Users/bb860/Documents/cs100/assignments/a1/assignment-1-brownbois/CMakeFiles/rshell.dir
+/mnt/c/Users/bb860/Documents/cs100/assignments/a1/assignment-1-brownbois/googletest/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/bb860/Documents/cs100/assignments/a1/assignment-1-brownbois/googletest/CMakeFiles/edit_cache.dir
+/mnt/c/Users/bb860/Documents/cs100/assignments/a1/assignment-1-brownbois/googletest/CMakeFiles/gtest_main.dir
+/mnt/c/Users/bb860/Documents/cs100/assignments/a1/assignment-1-brownbois/googletest/CMakeFiles/gtest.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/test.dir/tests/test.o CMakeFiles/test.dir/src/command.o CMakeFiles/test.dir/src/shell.o CMakeFiles/test.dir/src/and.o CMakeFiles/test.dir/src/or.o CMakeFiles/test.dir/src/semicolon.o  -o test  -L/mnt/c/Users/bb860/Documents/cs100/assignments/a1/assignment-1-brownbois/lib -rdynamic lib/libgtest.a -lpthread 
